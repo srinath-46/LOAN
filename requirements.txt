@@ -1,6 +1,7 @@
 streamlit
 pandas
-scikit-learn
-xgboost
 sqlalchemy
+xgboost
 joblib
+pyyaml
+streamlit-authenticator
