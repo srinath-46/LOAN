@@ -13,8 +13,3 @@ cookie:
   name: streambank_auth
   key: abcdefgh12345678
   expiry_days: 1
-
-preauthorized:
-  emails:
-    - alice@example.com
-    - bob@example.com
